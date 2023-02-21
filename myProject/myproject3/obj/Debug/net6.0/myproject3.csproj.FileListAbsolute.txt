@@ -1,0 +1,15 @@
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\bin\Debug\net6.0\myproject3.exe
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\bin\Debug\net6.0\myproject3.deps.json
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\bin\Debug\net6.0\myproject3.runtimeconfig.json
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\bin\Debug\net6.0\myproject3.dll
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\bin\Debug\net6.0\myproject3.pdb
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\obj\Debug\net6.0\myproject3.csproj.AssemblyReference.cache
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\obj\Debug\net6.0\myproject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\obj\Debug\net6.0\myproject3.AssemblyInfoInputs.cache
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\obj\Debug\net6.0\myproject3.AssemblyInfo.cs
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\obj\Debug\net6.0\myproject3.csproj.CoreCompileInputs.cache
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\obj\Debug\net6.0\myproject3.dll
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\obj\Debug\net6.0\refint\myproject3.dll
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\obj\Debug\net6.0\myproject3.pdb
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\obj\Debug\net6.0\myproject3.genruntimeconfig.cache
+C:\Users\mf384\OneDrive\Desktop\TestProject\myProject\myproject3\obj\Debug\net6.0\ref\myproject3.dll
